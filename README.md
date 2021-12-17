@@ -1,5 +1,5 @@
 - 👋 Hi
-- # Heading 1 I’m IT TA Partner ant Evolution
+- # I’m IT TA Partner ant Evolution
 - 👀 I’m interested in IT recruitment 
 - 🌱 I’m currently learning HTML
 - 🔎 Improving: IT sourcing
