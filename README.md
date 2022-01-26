@@ -3,4 +3,4 @@
 
 - 👀 I’m interested in IT recruitment 
 - 🌱 I’m currently learning HTML
-- 🔎 Improving: IT sourcing
+- 🔎 Improving: IT sourcing; Project Management skills
