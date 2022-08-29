@@ -4,4 +4,3 @@
 - 👀 I’m working as IT TA Partner to Engineering at Evolution https://github.com/evolution-gaming
 - 🌱 I’m currently learning Project Management 
 - 🔎 Improving: IT sourcing skills
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
